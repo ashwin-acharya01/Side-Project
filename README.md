@@ -16,4 +16,4 @@ A Community to collaborate, compete and grow.
 - [Ayush Dudhani](https://github.com/ayush-dudhani)
 - [Ashwin Acharya](https://github.com/ashwin-acharya01)
 
-## 🚧Website under construction 🚧
+## 🚧Website under Deveopment🚧
