@@ -11,9 +11,9 @@ A Community to collaborate, compete and grow.
 
 
 ### Authors
-- [Abhijeet Bhushari] (https://github.com/Abhijeet-Bhushari) 
-- [Mangesh Dudhgaonkar Patil] (https://github.com/Magesh1511)
-- [Ayush Dudhani] (https://github.com/ayush-dudhani)
-- [Ashwin Acharya] (https://github.com/ashwin-acharya01)
+- [Abhijeet Bhushari](https://github.com/Abhijeet-Bhushari) 
+- [Mangesh Dudhgaonkar Patil](https://github.com/Magesh1511)
+- [Ayush Dudhani](https://github.com/ayush-dudhani)
+- [Ashwin Acharya](https://github.com/ashwin-acharya01)
 
 ## 🚧Website under construction 🚧
